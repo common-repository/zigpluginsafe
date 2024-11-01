@@ -1,0 +1,33 @@
+
+
+
+.zigpluginsafe-admin h2 { margin:0 0 15px 0; }
+.zigpluginsafe-admin p { margin:0 0 15px 0; }
+.zigpluginsafe-admin .strong { font-weight:bold; }
+.zigpluginsafe-admin .center { text-align:center; }
+.zigpluginsafe-admin .right { text-align:right; }
+.zigpluginsafe-admin .floatRight { float:right; display:inline; }
+.zigpluginsafe-admin .clearer { height:0px; clear:both; line-height:0px; overflow:hidden; font-size:0; }
+.zigpluginsafe-admin .wrap-left { float:left; width:70%; }
+.zigpluginsafe-admin .wrap-right { float:right; width:30%; }
+.zigpluginsafe-admin .donate form { float:right; text-align:right; width:150px; }
+.zigpluginsafe-admin .col-pad { padding-right:15px; }
+.zigpluginsafe-admin table.widefat { margin-bottom:15px; width:99%; }
+.zigpluginsafe-admin img.icon { vertical-align:middle; margin-bottom:1px; }
+.zigpluginsafe-admin img.floatRight { margin-bottom:0; }
+.zigpluginsafe-admin th { vertical-align:top; }
+.zigpluginsafe-admin td { overflow:hidden; }
+.zigpluginsafe-admin .half { float:left; width:50%; padding-top:5px; }
+
+table.form-table input.checkbox { vertical-align:baseline; }
+
+table.form-table .nowrap { white-space:nowrap; }
+table.form-table .right { text-align:right; }
+table.form-table .strong { font-weight:bold; }
+table.form-table tr td .smallish-text { width:100px; }
+
+table.form-table tr.topborder th,
+table.form-table tr.topborder td { border-top:1px solid #d1e5ee; }
+
+
+
